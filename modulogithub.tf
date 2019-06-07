@@ -1,6 +1,6 @@
 # Configure the GitHub Provider
 provider "github" {
-  token        = "a8dd9668b9c1d9e31b0dafee9dcd61022730baf7"
+  token        = "4ab045da1eaec55b1a367bea30441df77ceb8e86"
   organization = "proyectoiestriana"
 }
 resource "github_repository" "RepositorioModuladoVolcandoCodigo" {
